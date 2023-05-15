@@ -1,5 +1,5 @@
 .container{
-    border: 3px red solid;
+    border: 3px rgb(97, 42, 42) solid;
     height: 90vh;
     margin-top:2rem;
 }
